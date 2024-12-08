@@ -1,2 +1,13 @@
-name = input("May I ask for your name? ")
-print("Hello,", name + "!")
+import java.util.*;
+public class Name
+{
+  public static void main(String args[])
+  {
+    Scanner sc=new Scanner(System.in);
+    System.out.println("May i know your name?");
+    String name=sc.nextLine();
+    System.out.println("Hello,"+ name + "!");
+
+  }
+}
+
