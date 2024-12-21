@@ -8,6 +8,9 @@ public class Name
     String name=sc.nextLine();
     System.out.println("Hello,"+ name + "!");
 
+
+//my name is manoj
+
   }
 }
 
